@@ -1,1 +1,3 @@
-# SCHOOL_COURSE_MANAGEMENT_SYSTEM_IN_JAVA
+# ucss
+University Course Management
+
